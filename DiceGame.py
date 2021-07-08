@@ -14,6 +14,6 @@ print("Die 2: " + str(num2))
 print("Total value: " + str(num1+num2))
 
 if(7<num1+num2):
-    print("You Won")
+    print(name+"Won!")
 else:
-    print("You lost")
+    print(name+"lost!")
